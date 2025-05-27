@@ -15,18 +15,6 @@ A light-hearted (basic :)) web app showcasing some recipes with a humorous twist
 - A pinch of satire
 - The title takes you back to home
 
-## 📁 Project Structure
-
-odin-recipes/
-├── index.html
-├── styles.css
-├── /img
-│ ├── manatee.png
-│ └── timer.png
-└── /recipes
-├── ice-cubes.html
-├── boiled-water.html
-└── tap-water.html
 
 ## 💡 Inspiration
 
