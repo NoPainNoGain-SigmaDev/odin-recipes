@@ -3,7 +3,7 @@
 A light-hearted (basic :)) web app showcasing some recipes with a humorous twist to help you stay “in shape” this summer. Built as part of [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes#project-solution) curriculum (Foundations Course First project).
 
 ## 🔗 Check out the live preview
-I iwll add it in next commit jeje
+[Click here to unchain the "magic"](https://nopainnogain-sigmadev.github.io/odin-recipes)
 
 
 ## 🌟 Features
